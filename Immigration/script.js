@@ -3,7 +3,7 @@ const sr= ScrollReveal({
     distance: '500px',
     duration: 2500 ,
     delay: 400,
-    // reset:true,//animations repeat
+   
     
 
 })
@@ -17,7 +17,7 @@ const sr2= ScrollReveal({
     distance: '50px',
     duration: 2500 ,
     delay: 400,
-    // reset:true,//animations repeat
+  
     
 
 })
